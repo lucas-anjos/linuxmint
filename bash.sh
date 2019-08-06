@@ -3,7 +3,7 @@ Lucas dos Anjos Moreira, senac tatuape, aprendendo git e github...
 ctrl + alt + t = terminal no ambiente grafico
 ctrl + alt + f1 = terminal sem ambiente grafico
 ls = listar arquivos e diretorios 
-ls -lh = 
+ls -lh = listar todos os diretorios 
 ctrl + l = limpar
 cd + / = andar entre diretorios 
 cd = entrar nos diretorios
